@@ -1,5 +1,5 @@
-# Asisten_Jarvis
-Python3 SpeechRecognition
+# Asisten_Jarvis/Asisten_Bejo
+# Python3 SpeechRecognition
 
 => PERSIAPAN
 
