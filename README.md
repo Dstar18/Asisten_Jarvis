@@ -1,5 +1,5 @@
 # Asisten_Jarvis/Asisten_Bejo
-# Python3 SpeechRecognition
+Python3 SpeechRecognition
 
 => PERSIAPAN
 
@@ -14,4 +14,4 @@ $sudo pip3 install SpeechRecognition
 
 => RUN PROGRAM
 
-$python3 Jarvis.py
+$python3 asistenbejo.py
